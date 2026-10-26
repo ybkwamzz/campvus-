@@ -1,0 +1,6 @@
+{
+  "name": "CAMPV/US — Nairobi Campus Engine & Red Team Defense",
+  "description": "Production-hardened decentralized campus coordination platform for Nairobi universities, featuring H3 spatial pulse, prospective decaying plots, crew-lock verification, and red team exploit defense.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
